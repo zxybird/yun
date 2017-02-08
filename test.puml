@@ -14,7 +14,7 @@ AbstractList <|-- ArrayList
 
 class ArrayList {
 Object[] elementData
-size()
+size123()
 }
 
 enum TimeUnit {
